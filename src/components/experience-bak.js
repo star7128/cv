@@ -1,6 +1,4 @@
 import React from 'react';
-import paragraphs from "lines-to-paragraphs"
-
 
 const Experience = ({ data }) => (
   <section>
@@ -12,7 +10,7 @@ const Experience = ({ data }) => (
           <h3 className="item-sub">
             {item.company} | {item.start} - {item.end || 'PRESENT'}
           </h3>
-          <p className="py-6"><div dangerouslySetInnerHTML={{ __html: paragraphs(item.description) }} /></p>
+          <p className="py-6">{item.description}</p>
         </article>
       ))}
   </section>

@@ -1,4 +1,5 @@
 import React from 'react';
+import paragraphs from "lines-to-paragraphs"
 
 const Summary = ({ data }) => (
   <section className="py-5 border-b border-neutral-300 lg:flex items-center">
@@ -9,8 +10,8 @@ const Summary = ({ data }) => (
         alt="profile"
       />
     </div>
-    <p className="text-center tracking-wide leading-relaxed lg:text-left lg:mx-8 lg:text-lg">
-      {data}
+    <p className="text-sm-left tracking-wide leading-relaxed lg:text-justify lg:mx-8 lg:text-lg">
+      <div dangerouslySetInnerHTML={{ __html: paragraphs(data) }} />
     </p>
   </section>
 );

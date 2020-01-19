@@ -15,12 +15,12 @@ import '../main.css';
 
 const Home = () => (
   <main className="antialiased text-neutral-900 bg-neutral-100 min-h-screen sm:p-5">
-    <SEO title="Resume" />
+    <SEO title="CV" />
     <div className="container mx-auto shadow bg-white py-5 px-10">
       <Header
         contacts={resume.contact}
-        name={resume.fullname}
-        role={resume.role}
+	name={resume.fullname}
+	role={resume.role}
       />
       <Summary data={resume.summary} />
       <div className="border-b border-neutral-300 pb-2 my-5 lg:flex">

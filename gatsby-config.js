@@ -6,22 +6,22 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
+    title: `Star Chang | Solutions Architect`,
+    author: `Star Chang`,
+    description: `With 10+ years of experience in Networking and IoT industries, I help tech
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
               organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    siteUrl: `https://www.starlinking.com/`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: `starlinking`,
     },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Star Chang | Solutions Architect`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,

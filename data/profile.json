@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+886 939 692 663",
+    "email": "star@starlinking.com",
+    "website": "https://www.starlinking.com",
+    "location": "Taipei, Taiwan"
   },
   "skills": [
     {
@@ -11,48 +11,32 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
+          "name": "IT and Networking",
+          "percent": 90
         },
         {
-          "name": "Mobile/Web App Development",
-          "percent": 95
-        },
-        {
-          "name": "Product Management",
-          "percent": 85
+          "name": "Cloud and IoT Architecture",
+          "percent": 90
         },
         {
           "name": "Project Management",
-          "percent": 92
-        },
-        {
-          "name": "Game Development",
-          "percent": 70
-        },
-        {
-          "name": "Blockchain",
           "percent": 85
         },
         {
-          "name": "Dev Ops",
-          "percent": 81
+          "name": "Product Management",
+          "percent": 80
         },
         {
-          "name": "Backend Development",
-          "percent": 93
-        },
-        {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
+          "name": "Web App Development",
           "percent": 70
         },
         {
-          "name": "UX",
+          "name": "DevOps",
           "percent": 80
+        },
+        {
+          "name": "Applied Machine Learning",
+          "percent": 60
         }
       ]
     },
@@ -61,119 +45,31 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Javascript",
-          "percent": 96
+          "name": "Mandarin",
+          "percent": 100
         },
         {
-          "name": "Java",
-          "percent": 82
+          "name": "English",
+          "percent": 80
         },
         {
-          "name": "Python",
-          "percent": 85
-        },
-        {
-          "name": "C#",
-          "percent": 74
-        },
-        {
-          "name": "Solidity",
-          "percent": 85
-        },
-        {
-          "name": "Dart",
-          "percent": 75
-        },
-        {
-          "name": "Go",
-          "percent": 60
+          "name": "Taiwanese",
+          "percent": 90
         }
       ]
     },
     {
-      "title": "Frameworks",
+      "title": "OS",
       "type": "tag",
       "subskills": [
         {
-          "name": "React"
+          "name": "Linux"
         },
         {
-          "name": "Flutter"
+          "name": "Windows"
         },
         {
-          "name": "React Native"
-        },
-        {
-          "name": "Vue"
-        },
-        {
-          "name": "Spring"
-        },
-        {
-          "name": "Angular"
-        },
-        {
-          "name": "Electron"
-        },
-        {
-          "name": "Node"
-        },
-        {
-          "name": "Flusk"
-        },
-        {
-          "name": "Express"
-        },
-        {
-          "name": "Koa"
-        },
-        {
-          "name": "Gatsby"
-        },
-        {
-          "name": "Apollo"
-        },
-        {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
-        }
-      ]
-    },
-    {
-      "title": "Software",
-      "type": "tag",
-      "subskills": [
-        {
-          "name": "Docker"
-        },
-        {
-          "name": "Jira"
-        },
-        {
-          "name": "Unity"
-        },
-        {
-          "name": "Godot"
-        },
-        {
-          "name": "Google Analytics"
+          "name": "macOS"
         }
       ]
     },
@@ -186,123 +82,118 @@
         },
         {
           "name": "Mongodb"
+        }
+      ]
+    },   
+    {
+      "title": "Platforms",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Proxmox VE"
         },
         {
-          "name": "Parse"
+          "name": "ThingsBoard"
         },
         {
-          "name": "Firebase"
+          "name": "OpenStack"
         },
         {
-          "name": "Elastic Search"
+          "name": "Redmine"
         }
       ]
     }
-  ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+ ],
+ "summary": "Over 15 years within the ICT services industry to serve global domain customers. Divergent thinker who is capable of leading and addressing business dynamics quickly based on a lot of startup and corporate work experience. Acted as the primary technical resource, leading projects and product support with high visibility. Level-headed and calm in stressful situation with well-developed people skills. ",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "National Taiwan University of Science and Technology, Taiwan",
+      "degree": "Computer Science and Information Engineering",
+      "start": "2007",
+      "end": "completed 24 credits"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Soochow University, Taiwan",
+      "degree": "Computer Science",
+      "start": "1997",
+      "end": "2001"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
+      "role": "Consultant, Solutions Architect",
+      "company": "StarLinking Networks (self-employed)",
+      "description": "• To provide consulting services in Cloud and Industrial IoT projects \n\n• Design reliable, secure and cost effective applied solutions. \n\n ※ Certified Huawei Cloud Consulting International Partner",
+      "start": "03/2019",
       "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "S/W AE Project Supervisor",
+      "company": "Advantech Co., Ltd.",
+      "description": "• Technical Consulting for L2/L3 High Performance 10G/40G Advantech and ODM Network Switches \n\n • Network Research: Smart NIC, Open vSwitch, DPDK, CORD, SDN, OPNFV \n\n • Virtualization: Linux KVM, LXC and Docker \n\n • Cloud Solutions: Advantech servers and switches with OpenStack, AWS, GCP cloud services \n\n • Build the end-to-end CI/CD pipeline for automatic deployment",
+      "start": "01/2015",
+      "end": "02/2019"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
+      "role": "Manager, Electrical and IT Systems",
+      "company": "Mobiview Inc.",
+      "description": "• Redesign company web site \n\n• Maintain IT infrastructure and cloud services \n\n• Technical Consulting for in-country/oversea customers and bidding projects \n\n",
+      "start": "01/2014",
+      "end": "10/2014"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
+      "role": "Senior Support Engineer",
+      "company": "On-Ramp Wireless Inc.",
+      "description": "On-Ramp Wireless™ has its wireless network standard and infrastructure designed from the ground up to power wide-area machine-to-machine communication. \n\n Most of the time in Japan, Korea, Hong Kong, China, Singapore and Taiwan deployment pilots \n\n • Provide in-depth technical product advice and demo support during pre-sales and field trials \n\n • Configure on-premises cloud to respond business dynamics in diversity regions \n\n • Regular on-site product technical training to strengthen partner and agent relationship \n\n Coordinate with U.S. San Diego R&D and operation teams to make success in Asia-Pacific regions",
+      "start": "01/2011",
+      "end": "01/2014"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
+      "role": "Senior Support Engineer",
+      "company": "ATEN International Co., Ltd.",
+      "description": "Over IP Solutions (KVM, Power, Serial, Control Center software) and video switches \n\n • Provide product solutions technical support to channel sales and Asia-Pacific region agencies \n\n • Technical training seminar for agencies and exhibition setup and demo support \n\n • Collaborate with R&D and PM to reproduce bugs and fix them in product support life cycle \n\n • Company Technical Support Center (eSupport) - Power User and limited Admin",
+      "start": "07/2008",
+      "end": "12/2010"
     },
     {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
+      "role": "Contract Project Engineer",
+      "company": "Qualcomm Technologies, Inc.",
+      "description": "Join MediaFLO(mobile TV) global project field trial in Taiwan from beginning to the end. \n\n • Drive Test \n\n • System Monitoring \n\n • Friendly User Trial \n\n • MediaFLO Exhibition Demo \n\n • Trial License Extension work \n\n To collaborate closely with CNS, TTV, CHT, Far Eastone, APBW, and VIBO partners to have local government and market impressed. \n\n ※ QUALSTAR honor for outstanding efforts in work",
+      "start": "05/2007",
+      "end": "06/2008"
     },
     {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Technical Support, Software Engineer",
+      "company": "Raritan Inc.",
+      "description": "• Software Engineer (2005-2006) \n\n Mainly focus on IP base PDU (Power Distribution Unit with Remote Control) Project. \n\n Based on KVM Self-Products and core techniques, we adopt KIRA 100 MCU developed by Raritan Germany region to PDU. The PDU is composed of control board and relay board. \n\n The overall developing platform is Linux base so that hardware resources are controlled by Linux System. \n\n In the period of development, I am responsible to program API between lower layer IPMI and UI. Besides, serial port communication is another task based on SNMP Protocol SPEC. The purpose is for compatible with our other peripheral products. \n\n To learn how to collaborate with Germany engineering team and see their persistent attitude in doing system design and implementation. \n\n • Technical Support Engineer (2004-2005) \n\n Taiwan IT department is the Hub of Asia Pacific. I was the contact window and focus on solving any IT issues in Taiwan and do essential support for Asia regions. To plan and build-up Taiwan branch wireless infrastructure. \n\n To collaborate with the network engineer in maintaining server room. \n\n Server room hands-on and practical skills were learned from the first job. \n\n",
+      "start": "03/2004",
+      "end": "08/2006"
     }
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
-    {
-      "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://www.linkedin.com/in/starlinking"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://github.com/in/star-starlinking"
     }
   ],
-  "role": "Technologist",
+  "role": "Networking, Cloud and IoT Solutions Professional",
   "projects": [
     {
-      "name": "Gatsby resume starter",
-      "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "name": "Project 007",
+      "company": "S company",
+      "description": "To be updated soon...",
+      "link": "https://www.starlinking.com"
+    },
+    {
+      "name": "Project 006",
+      "company": "A company",
+      "description": "To be updated soon...",
+      "link": "https://www.starlinking.com"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Star Chang"
 }

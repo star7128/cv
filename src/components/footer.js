@@ -6,23 +6,8 @@ const Footer = ({ social }) => (
   <footer className="py-6 mx-auto items-center justify-between md:flex">
     <div className="items-center flex tracking-wide mb-5 md:mb-0 justify-center text-sm ml-2">
       <span className="inline-block mr-1">
-        © {new Date().getFullYear()} | Developed with
+        © {new Date().getFullYear()}, Star Chang
       </span>
-      <span className="inline-block mr-1">
-        <HeartIcon
-          className="h-3 w-3 fill-current"
-          style={{ color: '#de3618' }}
-        />
-      </span>
-      <span className="inline-block mr-1">by</span>
-      <a
-        className="text-primary-500 hover:text-primary-700 font-bold"
-        href="https://barancezayirli.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Baran Cezayirli
-      </a>
     </div>
     {social && (
       <div className="flex items-center justify-center ml-2">
