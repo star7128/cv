@@ -119,6 +119,26 @@
       "end": "2001"
     }
   ],
+  "license": [
+    {
+      "institution": "Project Management Institute (PMI)",
+      "degree": "Project Management Professional (PMP)",
+      "start": "Sep 2014",
+      "end": "Sep 2023"
+    },
+    {
+      "institution": "Certified Wireless Network Professional (CWNP)",
+      "degree": "Certified Wireless Network Administrator",
+      "start": "Mar 2009",
+      "end": "May 2011"
+    },
+    {
+      "institution": "Red Hat",
+      "degree": "Red Hat Certified Engineer (RHCE)",
+      "start": "Aug 2005",
+      "end": "Valid for life"
+    }
+  ],
   "experience": [
     {
       "role": "Consultant, Solutions Architect",
