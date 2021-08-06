@@ -145,21 +145,21 @@
   "experience": [
     {
       "role": "Consultant, Solutions Architect",
-      "company": "StarLinking Networks (self-employed)",
+      "company": "StarLinking Networks (starlinking.com)",
       "description": "• To provide consulting services in Cloud and Industrial IoT projects \n\n• Design reliable, secure and cost effective applied solutions. \n\n ※ Certified Huawei Cloud Consulting International Partner",
-      "start": "03/2019",
+      "start": "12/2018",
       "end": ""
     },
     {
       "role": "Sr. Field Engineering Tech Support",
-      "company": "TBCASoft, Inc.",
-      "description": "• Support Telco and Banking customers to join our CCPS (Cross Carrier Payment System) based on blockchain technology. \n\n • Services integration \n\n • Blockchain node deployment and maintenance based on AWS, terrafrom, and ansible",
+      "company": "TBCASoft, Inc. (tbcasoft.com)",
+      "description": "• Support Telco and Banking customers to join our Cross Carrier Payment System based on blockchain technology. \n\n • Services integration \n\n • Blockchain node deployment and maintenance based on AWS",
       "start": "05/2020",
-      "end": "Parental Leave"
+      "end": "05/2021, Parental Leave"
     },
     {
       "role": "S/W AE Project Supervisor",
-      "company": "Advantech Co., Ltd.",
+      "company": "Advantech Co., Ltd. (advantech.com)",
       "description": "• Technical Consulting for L2/L3 High Performance 10G/40G Advantech and ODM Network Switches \n\n • Network Research: Smart NIC, Open vSwitch, DPDK, CORD, SDN, OPNFV \n\n • Virtualization: Linux KVM, LXC and Docker \n\n • Cloud Solutions: Advantech servers and switches with OpenStack, AWS, GCP cloud services \n\n • Build the end-to-end CI/CD pipeline for automatic deployment",
       "start": "01/2015",
       "end": "02/2019"
