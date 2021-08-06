@@ -90,16 +90,19 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Proxmox VE"
-        },
-        {
           "name": "ThingsBoard"
         },
         {
-          "name": "OpenStack"
+          "name": "AWS"
         },
         {
-          "name": "Redmine"
+          "name": "HuaweiCloud/OpenStack"
+        },
+        {
+          "name": "Jira/Confluence"
+        },
+        {
+          "name": "HackMD/CodiMD"
         }
       ]
     }
@@ -146,6 +149,13 @@
       "description": "• To provide consulting services in Cloud and Industrial IoT projects \n\n• Design reliable, secure and cost effective applied solutions. \n\n ※ Certified Huawei Cloud Consulting International Partner",
       "start": "03/2019",
       "end": ""
+    },
+    {
+      "role": "Sr. Field Engineering Tech Support",
+      "company": "TBCASoft, Inc.",
+      "description": "• Support Telco and Banking customers to join our CCPS (Cross Carrier Payment System) based on blockchain technology. \n\n • Services integration \n\n • Blockchain node deployment and maintenance based on AWS, terrafrom, and ansible",
+      "start": "05/2020",
+      "end": "Parental Leave"
     },
     {
       "role": "S/W AE Project Supervisor",
@@ -197,7 +207,7 @@
     },
     {
       "service": "github",
-      "url": "https://github.com/in/star-starlinking"
+      "url": "https://github.com/star-starlinking"
     }
   ],
   "role": "Networking, Cloud and IoT Solutions Professional",
