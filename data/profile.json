@@ -213,15 +213,9 @@
   "role": "Networking, Cloud and IoT Solutions Professional",
   "projects": [
     {
-      "name": "Project 007",
-      "company": "S company",
-      "description": "To be updated soon...",
-      "link": "https://www.starlinking.com"
-    },
-    {
-      "name": "Project 006",
-      "company": "A company",
-      "description": "To be updated soon...",
+      "name": "UseCase",
+      "company": "Utility, Medical, IoT and startup companies",
+      "description": "Customer-oriented consulting and there is no one-size-fits-all approach!",
       "link": "https://www.starlinking.com"
     }
   ],
