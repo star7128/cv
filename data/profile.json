@@ -96,6 +96,9 @@
           "name": "AWS"
         },
         {
+          "name": "GCP"
+        },
+        {
           "name": "HuaweiCloud/OpenStack"
         },
         {
